@@ -9,6 +9,9 @@ Internationally educated, and multi-lingual in English, French, and Italian. Rec
 - Responsible Data & AI Practices
 - Data & AI Strategies for Impact
 
+## Find Me Around the Web 🌎
+- [niccocirone.com](https://niccocirone.com/)
+- 
 
 <!--
 **Nicco-Cirone/Nicco-Cirone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
