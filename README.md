@@ -11,7 +11,11 @@ Internationally educated, and multi-lingual in English, French, and Italian. Rec
 
 ## Find Me Around the Web 🌎
 - [niccocirone.com](https://niccocirone.com/)
-- 
+- [LinkedIn](https://www.linkedin.com/in/niccolocirone/)
+- [Tableau Public](https://public.tableau.com/app/profile/nicco.cirone/vizzes)
+- [Blog](https://niccocirone.wordpress.com/)
+
+## My Projects in the News 
 
 <!--
 **Nicco-Cirone/Nicco-Cirone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
