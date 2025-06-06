@@ -16,7 +16,7 @@ Internationally educated and multi-lingual in English, French, and Italian. Reco
 - [Tableau Public](https://public.tableau.com/app/profile/nicco.cirone/vizzes)
 - [Blog](https://niccocirone.wordpress.com/)
 
-## My Projects in the News 📰
+## My Work in the News 📰
 - [🔗 Reach the Unreached - UNICEF Data for Action Blog Post, 2025](https://data.unicef.org/data-for-action/reaching-the-unreached-with-life-saving-vaccines-through-data-science-and-geospatial-technologies/)
 - [🔗 Reach the Unreached - UNICEF Technical Brief, 2025](https://data.unicef.org/resources/reaching-the-unreached-with-life-saving-vaccines-through-data-science-and-geospatial-technologies/)
 - [🔗 ABCs of ‘Reaching the Unreached’: how mapping roads helped to get life-saving vaccines to children in Africa, 2025](https://www.cartong.org/en/2025/06/03/abcs-of-reaching-the-unreached-how-mapping-roads-helped-to-get-life-saving-vaccines-to-children-in-africa/)
