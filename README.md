@@ -14,7 +14,7 @@ Internationally educated and multi-lingual in English, French, and Italian. Reco
 - [niccocirone.com](https://niccocirone.com/)
 - [LinkedIn](https://www.linkedin.com/in/niccolocirone/)
 - [Tableau Public](https://public.tableau.com/app/profile/nicco.cirone/vizzes)
-- [Blog](https://niccocirone.wordpress.com/)
+- [Blog](https://niccocirone.com/blog/)
 
 ## My Work in the News 📰
 - [🔗 Reach the Unreached - UNICEF Data for Action Blog Post, 2025](https://data.unicef.org/data-for-action/reaching-the-unreached-with-life-saving-vaccines-through-data-science-and-geospatial-technologies/)
