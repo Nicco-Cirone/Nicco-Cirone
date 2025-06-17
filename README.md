@@ -26,3 +26,5 @@ Internationally educated and multi-lingual in English, French, and Italian. Reco
 - [🔗 NDCs For Every Child Data Platform, 2024](https://app.akuko.io/post/b134e066-87d5-48ea-87c9-1848e380c46a)
 - [🔗 How Big Data and AI saved lives in Indonesia, 2022](https://www.unicef.org/eap/stories/how-big-data-and-ai-saved-lives-indonesia)
 - [🔗 InForm - Responsible Data 4 Children Case Study, 2022](https://files.rd4c.org/RD4C_Inform.pdf)
+
+![Nicco in Cameroon](img/1730714729557.jpeg)
